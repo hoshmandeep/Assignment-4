@@ -1,0 +1,14 @@
+D:\sem 3\oo Iot1030\Assignment-4\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+D:\sem 3\oo Iot1030\Assignment-4\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem 3\oo Iot1030\Assignment-4\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\sem 3\oo Iot1030\Assignment-4\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\sem 3\oo Iot1030\Assignment-4\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\sem 3\oo Iot1030\Assignment-4\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\sem 3\oo Iot1030\Assignment-4\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\sem 3\oo Iot1030\Assignment-4\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\sem 3\oo Iot1030\Assignment-4\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\sem 3\oo Iot1030\Assignment-4\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\sem 3\oo Iot1030\Assignment-4\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\sem 3\oo Iot1030\Assignment-4\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\sem 3\oo Iot1030\Assignment-4\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\sem 3\oo Iot1030\Assignment-4\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
